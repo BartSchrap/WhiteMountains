@@ -2,4 +2,4 @@
   session_start();
   session_destroy();
 ?>
-<script>window.location = "../Login/index.php";</script>
+<script>window.location = "./home.php";</script>
